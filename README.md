@@ -1,1 +1,1 @@
-# MNIST
+# Projects during Master study
